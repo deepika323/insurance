@@ -26,7 +26,7 @@ export default function Home() {
             <p>
             759-759-78-78 <br/>
             957-11-67-300
-            <br/>Email : rohit@chitralekhafs.com</p>
+            <br/>Email : chetakinvest@gmail.com</p>
           </div>
         </div>
       </main>
